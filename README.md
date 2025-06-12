@@ -1,7 +1,5 @@
 # Análise de Dados de E-commerce Brasileiro
 
-**Visualização de Exemplo**
-
 ![Análise de Vendas](reports/figures/sales_analysis.png)
 
 ## Sobre o Projeto
