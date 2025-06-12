@@ -1,15 +1,26 @@
 # Análise de Dados de E-commerce Brasileiro
 
-![Sales Dashboard](reports/figures/sales_by_category.png)
+**Visualização de Exemplo**
+
+![Análise de Vendas](reports/figures/sales_analysis.png)
 
 ## Sobre o Projeto
 Este projeto realiza uma análise exploratória detalhada de dados de e-commerce brasileiro da Olist, explorando padrões de vendas, comportamento de clientes e desempenho de produtos.
 
 ## Principais Insights
-- As vendas apresentam sazonalidade clara, com picos em novembro e dezembro
-- Categorias de casa e decoração representam 34% do volume total de vendas
-- Clientes das regiões Sul e Sudeste têm ticket médio 23% maior
-- Produtos com frete grátis têm taxa de avaliação positiva 15% maior
+
+📈 **Padrões de Compra Sazonais**
+- Identificação de picos de vendas em novembro e dezembro, com aumento de 43% em relação à média anual
+- Correlação de 0.78 entre promoções e volume de vendas
+
+🔍 **Segmentação de Clientes**
+- Identificação de 4 segmentos distintos de clientes usando análise RFM
+- O segmento "Clientes Fiéis" (15% da base) representa 65% da receita total
+
+📊 **Visualizações Destacadas**
+- Mapa de calor de correlação entre variáveis
+- Análise geográfica de vendas por estado
+- Decomposição de séries temporais para identificação de tendências
 
 ## Estrutura do Projeto
 - `notebooks/`: Jupyter notebooks com análises detalhadas
