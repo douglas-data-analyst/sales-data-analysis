@@ -33,4 +33,4 @@ Este projeto realiza uma análise exploratória detalhada de dados de e-commerce
 Os dados utilizados são do [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce), disponibilizados no Kaggle.
 
 ## Autor
-Douglas Rodrigues - [LinkedIn](https://linkedin.com/in/douglasrodriguessilva)
+Douglas Rodrigues - [LinkedIn](https://www.linkedin.com/in/douglas-rodrigues-da-silva-30a018222/)
