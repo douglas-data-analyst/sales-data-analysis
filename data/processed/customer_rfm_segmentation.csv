@@ -1,0 +1,80 @@
+customer_unique_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,segment
+uniq_1,81,1,1282.4299999999998,2,0,1,3,Needs Attention
+uniq_10,141,1,1506.61,1,0,1,2,Needs Attention
+uniq_100,134,3,1288.75,1,1,1,3,Needs Attention
+uniq_11,103,3,5588.87,2,1,3,6,Loyal Customers
+uniq_12,343,1,473.14,0,0,0,0,At Risk
+uniq_13,355,1,746.14,0,0,0,0,At Risk
+uniq_14,70,2,747.76,2,0,0,2,Needs Attention
+uniq_15,35,2,943.9399999999999,3,0,1,4,Recent Customers
+uniq_16,97,1,950.31,2,0,1,3,Needs Attention
+uniq_18,187,1,247.0,1,0,0,1,At Risk
+uniq_19,365,1,870.84,0,0,1,1,At Risk
+uniq_2,22,3,4280.4,3,1,3,7,Loyal Customers
+uniq_21,132,1,371.67,1,0,0,1,At Risk
+uniq_22,94,3,1675.58,2,1,2,5,Recent Customers
+uniq_23,346,1,1302.67,0,0,1,1,At Risk
+uniq_24,15,3,1807.82,3,1,2,6,Loyal Customers
+uniq_25,32,2,1279.45,3,0,1,4,Recent Customers
+uniq_26,280,1,178.79,0,0,0,0,At Risk
+uniq_27,55,3,1499.32,3,1,1,5,Recent Customers
+uniq_28,198,2,2126.6,1,0,2,3,Needs Attention
+uniq_3,284,2,2472.35,0,0,3,3,Needs Attention
+uniq_30,262,2,350.44,0,0,0,0,At Risk
+uniq_31,77,3,4694.07,2,1,3,6,Loyal Customers
+uniq_32,119,2,1693.73,2,0,2,4,Recent Customers
+uniq_33,171,2,2188.91,1,0,2,3,Needs Attention
+uniq_35,57,4,5503.7699999999995,3,2,3,8,Champions
+uniq_36,293,1,505.02,0,0,0,0,At Risk
+uniq_37,143,1,1768.94,1,0,2,3,Needs Attention
+uniq_4,30,1,1872.71,3,0,2,5,Recent Customers
+uniq_41,215,1,2238.88,0,0,2,2,Needs Attention
+uniq_42,43,2,2098.3,3,0,2,5,Recent Customers
+uniq_43,169,2,3402.2,1,0,3,4,Promising
+uniq_44,269,1,339.18,0,0,0,0,At Risk
+uniq_45,247,2,2567.85,0,0,3,3,Needs Attention
+uniq_46,79,2,1032.6399999999999,2,0,1,3,Needs Attention
+uniq_48,88,1,192.06,2,0,0,2,Needs Attention
+uniq_49,231,2,1088.58,0,0,1,1,At Risk
+uniq_5,61,5,5594.39,2,2,3,7,Loyal Customers
+uniq_50,21,1,766.06,3,0,0,3,Needs Attention
+uniq_52,130,2,3722.59,1,0,3,4,Promising
+uniq_53,99,4,3775.14,2,2,3,7,Loyal Customers
+uniq_54,105,2,935.29,2,0,1,3,Needs Attention
+uniq_55,101,1,933.45,2,0,1,3,Needs Attention
+uniq_56,161,1,366.99,1,0,0,1,At Risk
+uniq_57,86,3,3452.44,2,1,3,6,Loyal Customers
+uniq_58,6,2,1919.54,3,0,2,5,Recent Customers
+uniq_59,52,1,588.76,3,0,0,3,Needs Attention
+uniq_6,10,4,3553.79,3,2,3,8,Champions
+uniq_60,222,1,933.8399999999999,0,0,1,1,At Risk
+uniq_61,39,3,2355.19,3,1,2,6,Loyal Customers
+uniq_62,357,1,1119.24,0,0,1,1,At Risk
+uniq_63,50,2,2913.56,3,0,3,6,Loyal Customers
+uniq_64,83,3,2321.37,2,1,2,5,Recent Customers
+uniq_65,1,3,4615.15,3,1,3,7,Loyal Customers
+uniq_66,17,3,1511.13,3,1,1,5,Recent Customers
+uniq_67,145,4,2347.2,1,2,2,5,Promising
+uniq_68,205,1,319.71,1,0,0,1,At Risk
+uniq_69,19,3,5826.64,3,1,3,7,Loyal Customers
+uniq_7,8,4,3658.87,3,2,3,8,Champions
+uniq_70,108,2,1600.31,2,0,2,4,Recent Customers
+uniq_73,160,2,1529.28,1,0,1,2,Needs Attention
+uniq_74,37,4,2226.5299999999997,3,2,2,7,Loyal Customers
+uniq_75,96,1,955.29,2,0,1,3,Needs Attention
+uniq_76,59,2,654.12,3,0,0,3,Needs Attention
+uniq_78,193,1,1230.07,1,0,1,2,Needs Attention
+uniq_79,68,2,2202.51,2,0,2,4,Recent Customers
+uniq_80,202,3,1403.33,1,1,1,3,Needs Attention
+uniq_81,136,2,1549.56,1,0,2,3,Needs Attention
+uniq_82,163,3,3486.39,1,1,3,5,Promising
+uniq_83,317,1,593.6800000000001,0,0,0,0,At Risk
+uniq_85,66,3,5209.03,2,1,3,6,Loyal Customers
+uniq_86,297,2,2884.17,0,0,3,3,Needs Attention
+uniq_89,154,3,2970.09,1,1,3,5,Promising
+uniq_9,330,1,93.50999999999999,0,0,0,0,At Risk
+uniq_94,310,1,38.4,0,0,0,0,At Risk
+uniq_95,266,1,584.17,0,0,0,0,At Risk
+uniq_96,138,3,1661.03,1,1,2,4,Promising
+uniq_97,264,2,2209.71,0,0,2,2,Needs Attention
+uniq_98,63,1,376.91999999999996,2,0,0,2,Needs Attention
